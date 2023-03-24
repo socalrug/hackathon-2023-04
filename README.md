@@ -1,12 +1,14 @@
-# SoCal RUG Hackathon 2022-04
+# SoCal RUG Hackathon 2023-04
 
 ## Event Summary
 
-The SoCal RUG Hackathon 2022-04, hosted by the [Southern California R Users Group](https://www.meetup.com/SOCAL-RUG/) and the [UCI Paul Merage School of Business](https://merage.uci.edu). It is a two-day event where you will "hack" a data set for fun, education, and prizes.  The focus of the event is on education and teamwork, with the main goal of taking a data set from its "raw" form all the way through to a final "product" (e.g. visualization, model, insight).  To frame this process, the event will have a competitive aspect where teams will present their work at end of the event to a panel of judges, with prizes awarded in several categories (see below).
+The SoCal RUG Hackathon 2023-04, hosted by the [Southern California R Users Group](https://www.meetup.com/SOCAL-RUG/) and the [UCI Paul Merage School of Business](https://merage.uci.edu). It is a two-day event where you will "hack" a data set for fun, education, and prizes.  The focus of the event is on education and teamwork, with the main goal of taking a data set from its "raw" form all the way through to a final "product" (e.g. visualization, model, insight).  To frame this process, the event will have a competitive aspect where teams will present their work at end of the event to a panel of judges, with prizes awarded in several categories (see below).
 
 The event will start with a series of practical educational tutorials to get you started with the fundamentals of data analysis using the R programming language. This will be followed by working sessions where teams will explore and analyze the data set in preparation for the presentations. Participants will work in small teams (2 - 5 people).  Teams can either be pre-arranged by participants themselves or will be assigned at the start of the event.  
 
 This event is open to data scientists, enthusiasts and hackers of all levels, from the beginner to the highly experienced.  If you are a beginner, it may be helpful to do some preparatory learning before the event — see the suggested resources below.  If you are an experienced user, we look forward to you sharing your expertise with others. Assisting others, both within and between teams, is highly encouraged.
+
+During this event you can use any tool that you want. You are not limited to R. It is common for data teams to use a mixture of tools such as programming languages, interactive data visualization software, data analytics, reporting, and integration tools. Putting the data into a database and using SQL based tooling has been an effective approach. 
 
 ## Goals of the Hackathon
 
@@ -17,7 +19,7 @@ This event is open to data scientists, enthusiasts and hackers of all levels, fr
 
 ## Event Details
 
-**When**: April 2-3, 2022
+**When**: April 22-33, 2023
 
 * Saturday: 8:30 AM - 10:00 PM
 * Sunday: 8:30 AM - 4:00 PM
@@ -44,7 +46,7 @@ This event is open to data scientists, enthusiasts and hackers of all levels, fr
 **Registration**
 
 * Cost: $35
-* Register through [EventBright](https://www.eventbrite.com/e/socalrug-data-science-hackathon-tickets-274506294717)
+* Register through [EventBright](https://www.eventbrite.com/e/socalrug-data-science-hackathon-tickets-597436287017)
 
 ## Schedule
 
@@ -54,9 +56,9 @@ This event is open to data scientists, enthusiasts and hackers of all levels, fr
 | :--  | :--   |
 | 08:30 AM            | Registration starts |
 | 09:00 AM - 09:15 AM | Introduction and WiFi setup |
-| 09:15 AM – 10:45 AM | Tutorial: dplyr, tidyr, ggplot2 - Tommy Steed, Javier Orraca |
+| 09:15 AM – 10:45 AM | Tutorial: TBD |
 | 10:45 AM - 11:00 AM | Break |
-| 11:00 AM - 12:30 AM | Tutorial: tidymodels - Emil Hvitfeldt |
+| 11:00 AM - 12:30 AM | Tutorial: Natural Language Processing (NLP) - Emil Hvitfeldt |
 | 12:30 PM – 01:00 PM | Lunch |
 | 01:00 PM            | Registration closes |
 | 01:00 PM – 01:30 PM | Welcome talk, data set overview, groups formed |
@@ -83,8 +85,8 @@ This event is open to data scientists, enthusiasts and hackers of all levels, fr
 
 ## Rules
 
-* All participants must [register for the event](https://www.eventbrite.com/e/socalrug-data-science-hackathon-tickets-274506294717) and have a valid ticket to attend.
-* All participants must abide by the [SoCal RUG Code of Conduct](https://github.com/socalrug/hackathon-2022-04/blob/master/code-of-conduct.md), including the [R Consortium and the R Community Code of Conduct](https://wiki.r-consortium.org/view/R_Consortium_and_the_R_Community_Code_of_Conduct).
+* All participants must [register for the event](https://www.eventbrite.com/e/socalrug-data-science-hackathon-tickets-597436287017) and have a valid ticket to attend.
+* All participants must abide by the [SoCal RUG Code of Conduct](https://github.com/socalrug/hackathon-2023-04/blob/master/code-of-conduct.md), including the [R Consortium and the R Community Code of Conduct](https://wiki.r-consortium.org/view/R_Consortium_and_the_R_Community_Code_of_Conduct).
 * Participants are free to come and go during the event. However, any participant who has not checked in by 01:00 PM on Saturday will be considered a "no-show" and their spot may be given to someone else.
 * Though this is an R-focused event, participants are free to use any programming language or tool for their work.
 * Participants are free to work on their projects both on-site at the hackathon and off-site. It is highly encouraged that participants attend all working sessions to maximize team and group interactions.
@@ -92,25 +94,34 @@ This event is open to data scientists, enthusiasts and hackers of all levels, fr
 
 ## WiFi Access
 
-* Connect to SSID: UCInet Mobile
-* Go to [https://oit.uci.edu/reg](https://oit.uci.edu/reg)
-* register your device as a guest
+* Connect to SSID: UCI Guest
+* Agree to the terms of service.
 
-If you have problems, please call OIT support line at (949) 824-2222 option 3 or the Merage IT support line at (949)824-0852.
+If you are at the Paul Merage Business School you can get help at: Merage Technology Support
+
+4293 Pereira Dr
+
+SB1 - Suite 2400
+
+Irvine, CA 92697
+
+(949)824-4357
+
+Otherwise call the OIT support line at (949) 824-2222 option 3
 
 ## GitHub Repo
 
 SoCal RUG GitHub Repo: [https://github.com/socalrug/](https://github.com/socalrug/)
 
-**Please install git and clone the following repo before the event and pull before the start of the event**
+**Please [install git](https://github.com/git-guides/install-git) and clone the following repo before the event and pull before the start of the event.**
 
 command: 
 
 ```
-git clone git@github.com:socalrug/hackathon-2022-04.git
+git clone git@github.com:socalrug/hackathon-2023-04.git
 ```
 
-Hackathon Repo: [https://github.com/socalrug/hackathon-2022-04](https://github.com/socalrug/hackathon-2022-04)
+You can access the hackathon repo with a web browser [https://github.com/socalrug/hackathon-2023-04](https://github.com/socalrug/hackathon-2023-04), however, it is strongly recommended that you `clone` the repo as it will frequently be updated throughout the event.
 
 ## Slack Channel
 
@@ -118,13 +129,13 @@ A slack channel has been set up for the hackathon. This will be used for general
 
 If you have not created an account on our slack group, create one using the following link:
 
-Slack Group Sign-up: [https://tinyurl.com/socalrug-slack-signup](https://tinyurl.com/socalrug-slack-signup)
+Slack Group Sign-up: [https://tinyurl.com/socalrug-slack-signup](https://tinyurl.com/socalrug-slack-invite3)
 
 Once you have an account, sign in (you can do it on a web browser or download an app on your phone or desktop).
 
 Slack channel: [https://socalrug.slack.com](https://socalrug.slack.com)
 
-The channel for the hackathon is **hackathon-2022-04**
+The channel for the hackathon is **hackathon-2023-04**
 
 ## Teams
 
@@ -136,9 +147,9 @@ The channel for the hackathon is **hackathon-2022-04**
 
 ## Award Categories and Prizes
 
-See the [presentation guidelines](https://github.com/socalrug/hackathon-2022-04/blob/master/presentation/presentation_guidelines.md) for the requirements. The team prizes will be determined by a panel of judges using the following [judging guidelines](https://github.com/socalrug/hackathon-2022-04/blob/master/admin/judging_guidelines.md).  The judge's decision is final.
+See the [presentation guidelines](https://github.com/socalrug/hackathon-2023-04/blob/master/presentation/presentation_guidelines.md) for the requirements. The team prizes will be determined by a panel of judges using the following [judging guidelines](https://github.com/socalrug/hackathon-2023-04/blob/master/admin/judging_guidelines.md).  The judge's decision is final.
 
-Below is a list of the awards and [prizes](https://github.com/socalrug/hackathon-2022-04/blob/master/admin/prizes.md). Winners will be able to select from the available assortment of prizes.
+Below is a list of the awards and [prizes](https://github.com/socalrug/hackathon-2023-04/blob/master/admin/prizes.md). Winners will be able to select from the available assortment of prizes.
 
 * Best Presentation
 * Best Analysis
@@ -151,7 +162,7 @@ On Saturday evening, we will have an hour-long data challenge event, the idea is
 
 ## Post-event Survey
 
-After the event, please complete the [SoCal RUG Hackathon 2022-04 Survey](https://docs.google.com/forms/d/e/1FAIpQLSeud0Xp8wEhrOGFrrsNcbzorfBHpRAQdnJ40Z_BL48fSQ6O-A/viewform). This is important feedback so that we can constantly improve our events.
+After the event, please complete the [SoCal RUG Hackathon 2023-04 Survey](). This is important feedback so that we can constantly improve our events.
 
 ## Resources
 
@@ -179,16 +190,9 @@ After the event, please complete the [SoCal RUG Hackathon 2022-04 Survey](https:
 * [The R Graph Gallery](https://www.r-graph-gallery.com/)
     * Gallery of various types of charts and the code needed to create them. 
     
-* [R Graphics Cookbook](https://r-graphics.org/)
-    * A practical guide that provides more than 150 recipes
-
 * [Mistakes, we’ve drawn a few: Learning from our errors in data visualisation](https://medium.economist.com/mistakes-weve-drawn-a-few-8cdd8a42d368)
     * From the Economist about mistakes they've made with *published* data visualizations, and how they'd fix the problems.
     * Note: even professionals make mistakes too!
-
-* [The caret R Package Site](http://topepo.github.io/caret/index.html)
-    * Good overview of caret with code examples
-    * In particular, check out the [table of available models](http://topepo.github.io/caret/available-models.html)
 
 * [DALEX R Package -- Descriptive mAchine Learning EXplanations](https://github.com/pbiecek/DALEX)
     * Provides a set of tools that help you to understand how complex models are working
@@ -201,10 +205,10 @@ After the event, please complete the [SoCal RUG Hackathon 2022-04 Survey](https:
 Food, drinks and snacks will be provided throughout the event.  We will have vegetarian options available. Please feel free to bring any additional food for yourself if you would like to supplement the meals or if you have other specific dietary constraints.
 
 * **Saturday**
-    * *Lunch*: Sandwiches (Turkey & Ham, Veggie), chips, cookies
-    * *Dinner*: Lasagna (Meat and veggie), salad, rolls, dessert
+    * *Lunch*: TBD
+    * *Dinner*: TDB
 * **Sunday**
-    * *Lunch*: Burgers (Meat and veggie), chips, cookies, dessert
+    * *Lunch*: TDB
 * **Snacks and Drinks**
     * Coffee
     * Various teas
@@ -214,10 +218,5 @@ Food, drinks and snacks will be provided throughout the event.  We will have veg
 
 ## Sponsors
 
-* [Amazon Web Services](https://aws.amazon.com/)
-* [Anaheim Ducks](https://www.nhl.com/ducks)
 * [R Consortium](https://www.r-consortium.org/)
-* [RStudio](https://rstudio.com/)
-* [Saturn Cloud](https://saturncloud.io/)
-* [Taylor and Francis](https://taylorandfrancis.com/)
 * [UC Irvine - Paul Merage School of Business](https://merage.uci.edu/) 
