@@ -21,7 +21,7 @@ During this event you can use any tool that you want. You are not limited to R. 
 
 **When**: April 22-33, 2023
 
-* Saturday: 8:30 AM - 10:00 PM
+* Saturday: 9:00 AM - 10:00 PM
 * Sunday: 8:30 AM - 4:00 PM
 
 **Where**: University of California, Irvine -- Paul Merage School of Business 
@@ -54,12 +54,13 @@ During this event you can use any tool that you want. You are not limited to R. 
 
 | Time | Event |
 | :--  | :--   |
-| 08:30 AM            | Registration starts |
-| 09:00 AM - 09:15 AM | Introduction and WiFi setup |
-| 09:15 AM – 10:45 AM | Tutorial: TBD |
+| 09:00 AM            | Registration starts |
+| 09:00 AM - 10:00 AM | Light Breakfast, Set-up, Tech Support |
+| 10:00 AM – 10:45 AM | Tutorial: Intro to Text Analysis in R - Emil Hvitfeldt |
 | 10:45 AM - 11:00 AM | Break |
-| 11:00 AM - 12:30 AM | Tutorial: Natural Language Processing (NLP) - Emil Hvitfeldt |
-| 12:30 PM – 01:00 PM | Lunch |
+| 11:00 AM - 11:45 AM | Tutorial: Applications of Text Analysis in R - Emil Hvitfeldt |
+| 11:45 PM – 12:00 PM | Morning Wrap-up, Questions |
+| 12:00 PM – 1:00 PM  | Lunch |
 | 01:00 PM            | Registration closes |
 | 01:00 PM – 01:30 PM | Welcome talk, data set overview, groups formed |
 | 01:30 PM – 05:45 PM | Working Session |
