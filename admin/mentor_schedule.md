@@ -2,7 +2,7 @@
 
 |Name|Status|Date|Time Frame|Comment|
 |:-  |:-:   |:-  |:-:       |:-|
-|Amy Chen|Asked| | | |2023-03-23, 2023-03-27 sent a correction email|
+|Amy Chen|Asked| | | |Can only do in remotely.|
 |Bella Feng|Asked| | | |2023-03-23, 2023-03-27 sent a correction email|
 |Brendon Butler|Asked| | | |2023-03-23 via LinkedIn, 2023-03-27 sent a correction email|
 |Bryan Travis Smith|Asked| | | |2023-03-23, 2023-03-27 sent a correction email|
@@ -14,12 +14,12 @@
 |Edward Shih-Yu Chung|Asked| | | |2023-03-23, 2023-03-27 sent a correction email|
 |Julien Brun|Asked| | | |2023-03-23, 2023-03-27 sent a correction email|
 |Malvika Shah|Asked| | | |2023-03-23, 2023-03-27 sent a correction email|
-|Olga Korosteleva|Asked| | | |2023-03-23, 2023-03-27 sent a correction email. She may be interested in judging|
+|Olga Korosteleva|Declined| | | |She will be a judge|
 |Sara Mehdizadeh|Asked| | | |2023-03-23, 2023-03-27 sent a correction email|
 |Sep Dadsetan|Asked| | | |Spoke at the March meetup. Probably not but ask closer to the event. He has a baby coming|
 |Shujing Dong|Asked| | | |2023-03-23, 2023-03-27 sent a correction email|
 |Takako Suzuki|Asked| | | |2023-03-23, 2023-03-27 sent a correction email|
-|Yu Guo|Asked| | | |2023-03-23, 2023-03-27 sent a correction email|
+|Yu Guo|Declined| | | |Will be out of town|
 |Yu Zhao|Asked| | | |2023-03-23, 2023-03-27 sent a correction email|
 |Yufei Tan|Asked| | | |2023-03-23, 2023-03-27 sent a correction email. She marked it as spam|
 |Ziyi Cao|Asked| | | |2023-03-23, 2023-03-27 sent a correction email|
