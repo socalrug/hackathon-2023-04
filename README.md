@@ -64,8 +64,8 @@ During this event you can use any tool that you want. You are not limited to R. 
 | 12:00 PM – 1:00 PM  | Lunch |
 | 01:00 PM            | Registration Closes |
 | 01:00 PM – 01:30 PM | Welcome, Data Set Overview |
-| 01:30 PM – 05:45 PM | Working Session |
-| 05:45 PM – 06:30 PM | Dinner |
+| 01:30 PM – 05:30 PM | Working Session |
+| 05:30 PM – 06:30 PM | Dinner |
 | 06:30 PM – 07:30 PM | Evening Data Challenge |
 | 07:30 PM - 10:00 PM | Working Session |
 | 10:00 PM            | Building Automatically Locks |
