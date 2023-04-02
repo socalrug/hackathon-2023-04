@@ -163,7 +163,7 @@ On Saturday evening, we will have an hour-long data challenge event, the idea is
 
 ## Post-event Survey
 
-After the event, please complete the [SoCal RUG Hackathon 2023-04 Survey](). This is important feedback so that we can constantly improve our events.
+After the event, please complete the [SoCal RUG Hackathon 2023-04 Survey](https://docs.google.com/forms/d/e/1FAIpQLSfFrMmL40eTvoJCvFVN70QrZE3m51a4z-XPcGAX4yBj_VOJrw/viewform). This is important feedback so that we can constantly improve our events.
 
 ## Resources
 

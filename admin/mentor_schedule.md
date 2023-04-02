@@ -12,7 +12,7 @@
 |Deepak Patil|Asked| | | |2023-03-23, 2023-03-27 sent a correction email|
 |Dwight Wynne|Asked| | | |Spoke at the March meetup. Probably will be able to do it|
 |Edward Shih-Yu Chung|Asked| | | |2023-03-23, 2023-03-27 sent a correction email|
-|Julien Brun|Asked| | | |2023-03-23, 2023-03-27 sent a correction email|
+|Julien Brun|Declined| | | | |
 |Malvika Shah|Asked| | | |2023-03-23, 2023-03-27 sent a correction email|
 |Olga Korosteleva|Declined| | | |She will be a judge|
 |Sara Mehdizadeh|Asked| | | |2023-03-23, 2023-03-27 sent a correction email|
