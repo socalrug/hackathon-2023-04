@@ -55,32 +55,33 @@ During this event you can use any tool that you want. You are not limited to R. 
 | Time | Event |
 | :--  | :--   |
 | 09:00 AM            | Registration starts |
-| 09:00 AM - 10:00 AM | Light Breakfast, Set-up, Tech Support |
-| 10:00 AM – 10:45 AM | Tutorial: Intro to Text Analysis in R - Emil Hvitfeldt |
-| 10:45 AM - 11:00 AM | Break |
-| 11:00 AM - 11:45 AM | Tutorial: Applications of Text Analysis in R - Emil Hvitfeldt |
-| 11:45 PM – 12:00 PM | Morning Wrap-up, Questions |
+| 09:00 AM -  9:30 AM | Light Breakfast, Set-up, Tech Support |
+| 09:30 AM – 10:15 AM | Tutorial: Intro to Text Analysis in R - Emil Hvitfeldt |
+| 10:15 AM - 10:30 AM | Break |
+| 10:30 AM - 11:15 AM | Tutorial: Applications of Text Analysis in R - Emil Hvitfeldt |
+| 11:15 AM - 11:30 AM | Break |
+| 11:30 PM – 12:00 PM | Morning Wrap-up, Questions, Team Formation |
 | 12:00 PM – 1:00 PM  | Lunch |
-| 01:00 PM            | Registration closes |
-| 01:00 PM – 01:30 PM | Welcome talk, data set overview, groups formed |
+| 01:00 PM            | Registration Closes |
+| 01:00 PM – 01:30 PM | Welcome, Data Set Overview |
 | 01:30 PM – 05:45 PM | Working Session |
 | 05:45 PM – 06:30 PM | Dinner |
 | 06:30 PM – 07:30 PM | Evening Data Challenge |
 | 07:30 PM - 10:00 PM | Working Session |
-| 10:00 PM            | Building automatically locks |
+| 10:00 PM            | Building Automatically Locks |
 
 ### Sunday
 
 | Time | Event |
 | :--- | :--   |
-| 08:30 AM - 09:00 AM | Doors open | 
-| 09:00 AM – 12:00 PM | Working session |
-| 12:00 PM – 12:30 PM | Lunch  |
-| 12:30 PM            | Presentation submission deadline | 
-| 12:30 PM – 01:15 PM | Practice presentations |
-| 01:15 PM – 03:00 PM | Group presentations |
-| 03:00 PM – 03:30 PM | Judges deliberate; Complete event survey |
-| 03:30 PM – 04:00 PM | Award presentation & wrap-up |
+| 08:30 AM            | Doors Open | 
+| ~12:00 PM           | Working Session |
+| 12:00 PM            | Presentation Submission Deadline | 
+| 12:00 PM –  1:00 PM | Lunch  |
+|  1:00 PM –  1:30 PM | Presentation Prep |
+|  1:30 PM –  3:00 PM | Group presentations |
+|  3:00 PM –  3:30 PM | Judges Deliberate; Complete Event Survey |
+|  3:30 PM –  4:00 PM | Award Presentation & Wrap-Up |
 
 *Note* The building is locked all day Sunday. If you leave during the event, please arrange to have someone open the door for you. You can also text John Peach at 802 735 2059 to let you in.
 
