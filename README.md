@@ -207,16 +207,20 @@ After the event, please complete the [SoCal RUG Hackathon 2023-04 Survey](https:
 Food, drinks and snacks will be provided throughout the event.  We will have vegetarian options available. Please feel free to bring any additional food for yourself if you would like to supplement the meals or if you have other specific dietary constraints.
 
 * **Saturday**
-    * *Lunch*: TBD
-    * *Dinner*: TDB
+  * *Lunch*: Global Street Tacos
+  * *Dinner*: Italian Buffet
 * **Sunday**
-    * *Lunch*: TDB
+  * *Lunch*: Box Lunch Sandwichs
+    * Roast Beef with Tarragon Horseradish Spread on Wheatberry Bread
+    * Shawarma Chicken Ciabatta with Sliced Cucumber, Feta Cheese, Lettuce, Tomato and Lemon Tahini Dressing
+    * Mozzarella, Red Pepper, Balsamic and Kale Ciabatta
+    * Portobello Banh Mi Sub with Pickled Veggies, Jalapenos and Vegan Sriracha Mayo
 * **Snacks and Drinks**
-    * Coffee
-    * Various teas
-    * Soft drinks
-    * Water
-    * Various snacks
+  * Coffee
+  * Various teas
+  * Soft drinks
+  * Water
+  * Various snacks
 
 ## Sponsors
 
