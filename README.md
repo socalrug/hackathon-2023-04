@@ -19,7 +19,7 @@ During this event you can use any tool that you want. You are not limited to R. 
 
 ## Event Details
 
-**When**: April 22-33, 2023
+**When**: April 22-23, 2023
 
 * Saturday: 9:00 AM - 10:00 PM
 * Sunday: 8:30 AM - 4:00 PM
