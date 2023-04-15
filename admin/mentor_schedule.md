@@ -10,7 +10,7 @@
 |Daniele Micci-Bacceca|Asked| | |2023-03-23, 2023-03-27 sent a correction email|
 |Darshana Daga|Asked| | |2023-03-23, 2023-03-27 sent a correction email|
 |Deepak Patil|Asked| | |2023-03-23, 2023-03-27 sent a correction email|
-|Dwight Wynne|Asked| | |Spoke at the March meetup. Probably will be able to do it|
+|Dwight Wynne|Confirmed|2023-04-22|1:00-4:00 PM| |
 |Edward Shih-Yu Chung|Asked| | |2023-03-23, 2023-03-27 sent a correction email|
 |Gerardo Okhuysen|Confirmed|2023-03-22|1:00-4:00 PM| |
 |Julien Brun|Declined| | | |
