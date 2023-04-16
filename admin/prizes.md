@@ -8,11 +8,10 @@ There are 4 Award Categories:
 
 Data Evenining Challenge
 * 4 questions
-* Top 5 scorers will receive a prize
+* 5 participants will receive a prize.
+* The more tickets you eanr the greater the probability to win
 
 We need a minimum of 25 prizes
-
-
 
 
 | **Description** |**Qty**|
