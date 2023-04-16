@@ -27,9 +27,8 @@ We need a minimum of 25 prizes
 | Workout Earbuds | 2 |
 | Desk lamp | 2 |
 | Hydroflask | 2 |
-| Webcam with light | 2 |
-| Wireless headset | 2 |
-
+| Vacuum Insulated Tumbler | 2 |
+| Wireless Headset | 2 |
 
 
 
@@ -51,9 +50,10 @@ We need a minimum of 25 prizes
 
 [Hydroflask ~$24](https://www.amazon.com/Hydro-Flask-Insulated-Stainless-Standard/dp/B01MS9D2VG/ref=sr_1_4?crid=Y5HSVEZKJMZR&keywords=hydroflask&qid=1681656746&sprefix=hydroflask%2Caps%2C186&sr=8-4&th=1)
 
-[Webcam with light ~$25](https://www.amazon.com/papalook-Webcam-Streaming-Tripod-Included/dp/B08D7CVDD8/ref=sr_1_6?keywords=webcam+with+light&qid=1681657055&sprefix=webcam+with+%2Caps%2C164&sr=8-6)
+[Vacuum Insulated Tumbler for Tea/Coffee ~$25](https://a.co/d/86E8974)
 
-[Wireless headset ~25](https://www.amazon.com/XAPROO-Wireless-Headset-Microphone-Charging/dp/B0B9XBL3HP/ref=sr_1_5?crid=T8QBK8S4B95B&keywords=wireless%2Bheadset%2Bfor%2Bwork&qid=1681657610&sprefix=wireless%2Bheadset%2Caps%2C246&sr=8-5&th=1)
+[Wireless Headset ~$25](https://www.amazon.com/XAPROO-Wireless-Headset-Microphone-Charging/dp/B0B9XBL3HP/ref=sr_1_5?crid=T8QBK8S4B95B&keywords=wireless%2Bheadset%2Bfor%2Bwork&qid=1681657610&sprefix=wireless%2Bheadset%2Caps%2C246&sr=8-5&th=1)
+
 
 
 
