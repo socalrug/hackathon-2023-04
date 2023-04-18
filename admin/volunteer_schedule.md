@@ -34,4 +34,16 @@ On Sunday, we need people to regularly check to open the doors. We will ask part
 |            | 03:00 PM - 03:30 PM | 3 people  		|Jenica, Elanie, Eakagra         | Clean up break-out and conference rooms. Take down room signs. Make sure all garbage is collected and take it out. Help carry supplies to cars. |
 |            | 04:00 PM - 04:30 PM | 3 people       |Jenica, Elaine, Eakagra         | Final clean up and help carry supplies to cars. |
 
+|Name|Email|
+|:-  |:-   |
+|Anuja Deshmukh|aydeshmu@uci.edu|
+|Eakagra Galav|egalav@uci.edu|
+|Elaine Jennings|emjennin@uci.edu|
+|Jenica Sit|jenicas@uci.edu|
+|Jenil Gathani|jgathani@uci.edu|
+|Manjari Kumar|manjarik@uci.edu|
+|Siraj Cotecha|scotecha@uci.edu|
+|Urvi Vaidya|vaidyau@uci.edu|
+
+
 
