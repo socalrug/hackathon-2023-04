@@ -210,7 +210,7 @@ Food, drinks and snacks will be provided throughout the event.  We will have veg
   * *Lunch*: Chicken & Falafel Bowls
   * *Dinner*: Tacos, Chips, Rice & Beans
 * **Sunday**
-  * *Lunch*: Sandwich Boxed Lunches
+  * *Lunch*: Sandwich Boxed Lunches. There will be a limited number of gluten free meals.
 * **Snacks and Drinks**
   * Coffee
   * Various teas
