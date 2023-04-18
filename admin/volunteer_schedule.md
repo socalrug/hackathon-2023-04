@@ -27,23 +27,11 @@ On Sunday, we need people to regularly check to open the doors. We will ask part
 |            | 06:30 PM - 07:00 PM | 2 people		|Manjari, Eakagra                | Clean up from supper, refill coffee maker and snacks. |
 |            | 09:00 PM - 10:00 PM | 2 people		|Manjari, Urvi                   | Clean up break-out and conference rooms. Empty and clean coffee makers, pack-up and clean the snack area. Collect garbage and take it out. |
 | 2022-04-03 | 08:00 AM - 08:30 AM | 2 people 		|Siraj, Anuja                    | Set up coffee makers, and put out snacks. |
+|            | 08:00 AM - 08:30 AM | 1 person       |                                | Open door to SB1 as it is locked. |
 |            | 09:00 AM - 09:30 PM | 2 people  		|Siraj, Jenil                    | Refill snacks and coffee makers. Clean up snack area. |
 |            | 11:00 AM - 11:30 AM | 2 people       |Jenil, Anuja                    | Ensure coffee makers are ready for lunch. |
 |            | 12:45 PM - 01:15 PM | 2 people  		|Manjari, Urvi                   | Clean up from lunch. Refill coffee makers and snacks. |
 |            | 03:00 PM - 03:30 PM | 2 people		|Manjari, Urvi                   | Empty and clean coffee makers, pack-up and clean the snack area. Take down room signs. Collect garbage and take it out. |
 |            | 03:00 PM - 03:30 PM | 3 people  		|Jenica, Elanie, Eakagra         | Clean up break-out and conference rooms. Take down room signs. Make sure all garbage is collected and take it out. Help carry supplies to cars. |
 |            | 04:00 PM - 04:30 PM | 3 people       |Jenica, Elaine, Eakagra         | Final clean up and help carry supplies to cars. |
-
-|Name|Email|
-|:-  |:-   |
-|Anuja Deshmukh|aydeshmu@uci.edu|
-|Eakagra Galav|egalav@uci.edu|
-|Elaine Jennings|emjennin@uci.edu|
-|Jenica Sit|jenicas@uci.edu|
-|Jenil Gathani|jgathani@uci.edu|
-|Manjari Kumar|manjarik@uci.edu|
-|Siraj Cotecha|scotecha@uci.edu|
-|Urvi Vaidya|vaidyau@uci.edu|
-
-
 
