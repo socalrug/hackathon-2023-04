@@ -131,7 +131,7 @@ A slack channel has been set up for the hackathon. This will be used for general
 
 If you have not created an account on our slack group, create one using the following link:
 
-Slack Group Sign-up: [https://tinyurl.com/socalrug-slack-signup](https://tinyurl.com/socalrug-slack-invite3)
+Slack Group Sign-up: [https://tinyurl.com/socalrug-slack-invite3](https://tinyurl.com/socalrug-slack-invite3)
 
 Once you have an account, sign in (you can do it on a web browser or download an app on your phone or desktop).
 
