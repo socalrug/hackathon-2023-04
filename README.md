@@ -125,6 +125,10 @@ git clone git@github.com:socalrug/hackathon-2023-04.git
 
 You can access the hackathon repo with a web browser [https://github.com/socalrug/hackathon-2023-04](https://github.com/socalrug/hackathon-2023-04), however, it is strongly recommended that you `clone` the repo as it will frequently be updated throughout the event.
 
+## Tutorial Material
+
+All the tutorial material can be found at the following website [https://emilhvitfeldt.github.io/tutorial-ocrug-hackathon-nlp/](https://emilhvitfeldt.github.io/tutorial-ocrug-hackathon-nlp/).
+
 ## Slack Channel
 
 A slack channel has been set up for the hackathon. This will be used for general announcements but it is also a great source for you to ask questions to other participants.
