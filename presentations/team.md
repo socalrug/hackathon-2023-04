@@ -47,15 +47,6 @@
 | Ninh       | Nguyen      |       |
 | Jacob      | Clifford    |       |
 
-## Team Data Dynamo
-
-| Given Name | Family Name | Email |
-|:-----------|:------------|:------|
-| Ray        | Min         |       |
-| Kidus      | Joseph      |       |
-| Kathy      | Trieu       |       |
-| Ninh       | Nguyen      |       |
-| Jacob      | Clifford    |       |
 
 ## Just here for Snacks
 
@@ -77,15 +68,6 @@
 | Varalaxmi  | Gangane     |       |
 | Jocelyn    | Leison      |       |
 
-## Mix-n-Match
-
-| Given Name | Family Name | Email |
-|:-----------|:------------|:------|
-| Rikesh     | Patel       |       |
-| Stephen    | Fujiwara    |       |
-| Rachael    | Lim         |       |
-| Varalaxmi  | Gangane     |       |
-| Jocelyn    | Leison      |       |
 
 ## R U Ready?
 
