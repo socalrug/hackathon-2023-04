@@ -211,8 +211,8 @@ After the event, please complete the [SoCal RUG Hackathon 2023-04 Survey](https:
 Food, drinks and snacks will be provided throughout the event.  We will have vegetarian options available. Please feel free to bring any additional food for yourself if you would like to supplement the meals or if you have other specific dietary constraints.
 
 * **Saturday**
-  * *Lunch*: Chicken & Falafel Bowls
-  * *Dinner*: Tacos, Chips, Rice & Beans
+  * *Lunch*: Tacos, Chips, Rice & Beans
+  * *Dinner*: Chicken & Falafel Bowls
 * **Sunday**
   * *Lunch*: Sandwich Boxed Lunches. There will be a limited number of gluten free meals.
 * **Snacks and Drinks**
