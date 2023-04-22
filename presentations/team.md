@@ -116,7 +116,6 @@
 | Sanket     | Dave        |       |
 | Prayag     | Padwal      |       |
 
-
 ## DataChef
 
 | Given Name | Family Name | Email |
@@ -126,3 +125,20 @@
 | Hari       | Sellappan   |       |
 | Hong       | Nguyen      |       |
 | Yida       | Xu          |       |
+
+## Code Fellas
+
+| Given Name | Family Name | Email |
+|:-----------|:------------|:------|
+| Jenil      | Gathani     |       |
+| Vastal     | Shah        |       |
+| Nishant    | Parate      |       |
+| Eakagra    | Nguyen      |       |
+| Yida       | Galav       |       |
+
+
+
+
+
+
+
