@@ -115,3 +115,14 @@
 | Riya       | Lunagariya  |       |
 | Sanket     | Dave        |       |
 | Prayag     | Padwal      |       |
+
+
+## DataChef
+
+| Given Name | Family Name | Email |
+|:-----------|:------------|:------|
+| Abhinandan | Verma       |       |
+| Fiona      | Xu          |       |
+| Hari       | Sellappan   |       |
+| Hong       | Nguyen      |       |
+| Yida       | Xu          |       |
