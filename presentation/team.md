@@ -37,7 +37,6 @@
 | Gavin      | Li          |       |
 | BJ         | Bae         |       |
 | Merve      | Dumlu       |       |
-| Ritwik     | Trehan      |       |
 
 ## Team Data Dynamo
 
@@ -98,7 +97,7 @@
 | Priyanka   | Katre       |       |
 | Chakrapani | Suresh      |       |
 | Ruchi      | Isaac       |       |
-| Yifei (Lya)| Liu         |       |
+| Yifei(Lya) | Liu         |       |
 | Madhvi     | Gour        |       |
 
 ## MonsterLearningSquared
