@@ -19,12 +19,14 @@
 | Ziggy      | Molteni     |       |
 | Mason      | Pennell     |       |
 
-## Team J-Cubed
+## Team Rank Killer
 
 | Given Name | Family Name | Email |
 |:-----------|:------------|:------|
 | Joshua     | Liao        |       |
-| Jasmin     | Liao        |       |
+| Ruiying    | Liu         |       |
+| Yicheng    | Li          |       |
+| Gabor      | Szabo       |       |
 | John       | Liao        |       |
 
 ## Team We R Python
@@ -69,13 +71,15 @@
 | Jocelyn    | Leison      |       |
 
 
-## R U Ready?
+## Python R Us
 
 | Given Name  | Family Name | Email |
 |:------------|:------------|:------|
 | Christian   | Bourdeau    |       |
-| PJillasista |             |       |
+| PJ          | Villasista  |       |
 | Alexander   | Resendiz    |       |
+| Jason       | Vo          |       |
+| Hunter      | Vazirian    |       |
 
 ## Runtime Terror
 
