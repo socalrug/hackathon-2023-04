@@ -97,7 +97,7 @@
 |:-----------|:------------|:------|
 | Priyanka   | Katre       |       |
 | Chakrapani | Suresh      |       |
-| Ruchi      | Issac       |       |
+| Ruchi      | Isaac       |       |
 | Yifei(Lya) | Liu         |       |
 | Madhvi     | Gour        |       |
 
@@ -135,10 +135,9 @@
 | Given Name | Family Name | Email |
 |:-----------|:------------|:------|
 | Jenil      | Gathani     |       |
-| Vastal     | Shah        |       |
+| Vatsal     | Shah        |       |
 | Nishant    | Parate      |       |
-| Eakagra    | Nguyen      |       |
-| Yida       | Galav       |       |
+| Eakagra    | Galav       |       |
 
 
 
