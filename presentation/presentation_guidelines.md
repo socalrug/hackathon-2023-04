@@ -15,7 +15,7 @@ All teams will need to make a presentation covering their work during the hackat
 
 * Each team should prepare a PDF version of their presentation, produced with any software package (e.g. PowerPoint, Keynote, Shiny RMarkdown, etc.).  The presentation should be in **slide** format.
 * Each team will have 5 minutes to present.  Due to the number of teams that will present and time restrictions, presentations will be stopped promptly at 5 minutes.
-* Your first must be a title slide including your team name and team members.  It will not count towards your total number of slides.
+* Your slide first must be a title slide including your team name and team members.  It will not count towards your total number of slides.
 * It is recommended that you only have two content slides but **three is the maximum**. If you are creating an interactive visualization, you can have one or two slides and your demo of the tool that you have created. Please provide a separate PDF file with images of your tool. There is no limit to the number of pages that you submit. Do not use this for your your presentation, it is meant for posterity.
 * Presentations will be made from the computer and projector in the presentation room. If a personal computer is needed, you will need to be approved before 12:30 PM on Sunday. You will have one additional minute to connect the personal computer to the projector. However, if it takes longer the time will be taken out of your presentation time.
 
